@@ -11,7 +11,7 @@ version.workspace = true
 swf = { path = "../swf"}
 log = "0.4"
 gif = "0.12.0"
-png = { version = "0.17.7" }
+png = { version = "0.17.14" }
 flate2 = "1.0.25"
 smallvec = { version = "1.10.0", features = ["union"] }
 downcast-rs = "1.2.0"
